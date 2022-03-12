@@ -11,7 +11,7 @@ A weather app with daily forecast and 8-days forecast powered by OpenWeatherMap 
 - Dark Mode
 - Minimalist Design
 
-**Note:** Make sure to generate your own API key and place it on your local.properties
+**Developer's Note:** Make sure to generate your own API key and place it on your local.properties file for the source code to work.
 
 **Screenshots:**
 
