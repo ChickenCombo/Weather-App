@@ -1,5 +1,5 @@
 # Weather App 
-A weather app with daily forecast and 8-days forecast powered by OpenWeatherMap API made as a school project for Android development.
+A weather app with daily forecast and 8-days forecast powered that allows you to check the weather based on your location using GPS or by searching a location.
 
 **Requirements:**
 - Android Studio
