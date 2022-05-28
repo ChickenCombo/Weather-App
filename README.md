@@ -1,5 +1,5 @@
 # Weather App 
-A weather app with daily forecast and 8-days forecast powered that allows you to check the weather based on your location using GPS or by searching a location.
+A simple weather app that allows you to check the daily weather or an 8-day forecast based on your location using GPS or by searching a location.
 
 **Requirements:**
 - Android Studio
